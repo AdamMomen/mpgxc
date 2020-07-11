@@ -22,6 +22,6 @@ Rocketseat Student.
 
 ## ➤ Social media :mailbox_with_no_mail:
 
-![Linkedin URL](https://img.shields.io/twitter/url?color=%2380ff80&label=Linkedin%2Fmpgxc&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/mpgxc)
-[![Instagram URL](https://img.shields.io/twitter/url?color=%2380ff80&label=Instagram%2Fmpgxc&logo=instagram&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/mpgx.c)](www.instagram.com/mpgx.c)
+[![Linkedin URL](https://img.shields.io/twitter/url?color=%2380ff80&label=Linkedin%2Fmpgxc&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/mpgxc)](https://www.linkedin.com/in/mpgxc)
+[![Instagram URL](https://img.shields.io/twitter/url?color=%2380ff80&label=Instagram%2Fmpgxc&logo=instagram&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/mpgx.c)](https://www.instagram.com/mpgx.c)
 </samp>
