@@ -6,8 +6,6 @@
 
 Full-Stack | Software engineer | ⌛ (In progress)
 
-Rocketseat Student. 
-
 ## ➤ About me 
 
   :mag: Researcher | 😴 Sleep | 💻 Programming
