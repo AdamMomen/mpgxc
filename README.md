@@ -18,10 +18,10 @@ Rocketseat Student.
 - :gem: I love to customize everything lol
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 ## ➤ Social media :mailbox_with_no_mail:
 
-![Linkedin URL](https://img.shields.io/twitter/url?color=%2380ff80&label=Linkedin%2Fmpgxc&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmpgxc%2F)
-![Instagram URL](https://img.shields.io/twitter/url?color=%2380ff80&label=Instagram%2Fmpgxc&logo=instagram&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fmpgx.c%2F)
+![Linkedin URL](https://img.shields.io/twitter/url?color=%2380ff80&label=Linkedin%2Fmpgxc&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/mpgxc)
+[![Instagram URL](https://img.shields.io/twitter/url?color=%2380ff80&label=Instagram%2Fmpgxc&logo=instagram&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/mpgx.c)](www.instagram.com/mpgx.c)
 </samp>
