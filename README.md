@@ -1,10 +1,10 @@
 <samp>
 
-<img align="right" width="400" src="logo.png">
+<img align="right" width="400" src="https://raw.githubusercontent.com/mpgxc/experimental.Frankner/master/.github/logo.png">
 
 ## ➤ Hi there 👋, I'm Mateus Garcia :rocket:
 
-Full-Stack | Software engineer :robot:. (In progress)
+Full-Stack | Software engineer | :robot:. (In progress)
 
 Rcoketseat Student. :man_technologist:
 
@@ -13,7 +13,8 @@ Rcoketseat Student. :man_technologist:
 :heart: Research | :black_heart: Sleep | :blue_heart: Programming
 
 - :earth_americas: I'm from Picos - Piauí, Brasil
-- :video_game: I like to play video games
+- :rocket: I’m currently studying at Rocketseat
+- 💜 computer ReactJS, Node, React Native, Typescript
 - :gem: I love to customize everything lol
 
 
