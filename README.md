@@ -6,14 +6,14 @@
 
 Full-Stack | Software engineer | :robot:. (In progress)
 
-Rcoketseat Student. :man_technologist:
+Rocketseat Student. 
 
 ## ➤ About me 
 
-:heart: Research | :black_heart: Sleep | :blue_heart: Programming
+  :mag: Researcher | 😴 Sleep | 💻 Programming
 
 - :earth_americas: I'm from Picos - Piauí, Brasil
-- :rocket: I’m currently studying at Rocketseat
+- :man_technologist: I’m currently studying at Rocketseat
 - 💜 computer ReactJS, Node, React Native, Typescript
 - :gem: I love to customize everything lol
 
