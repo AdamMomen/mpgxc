@@ -4,7 +4,7 @@
 
 ## ➤ Hi there 👋, I'm Mateus Garcia :rocket:
 
-Full-Stack | Software engineer | :robot:. (In progress)
+Full-Stack | Software engineer | ⌛ (In progress)
 
 Rocketseat Student. 
 
