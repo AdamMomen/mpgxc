@@ -1,7 +1,5 @@
 <samp>
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/mpgxc/experimental.Frankner/master/.github/logo.png">
-
 ## ➤ Hi there 👋, I'm Mateus Garcia :rocket:
 
 Full-Stack | Software engineer | ⌛ (In progress)
